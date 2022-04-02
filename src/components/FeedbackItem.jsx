@@ -1,4 +1,4 @@
-import {FaTimes} from 'react-icons/fa'
+import {FaTimes} from 'react-icons/fa' // x icon (delete)
 import PropTypes from 'prop-types'
 import Card from "./shared/Card"
 
